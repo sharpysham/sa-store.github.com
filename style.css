@@ -1,0 +1,25 @@
+body{
+    background-color:#FFF2D8;
+}
+.navbar{
+    background-color: #71C9CE;
+}
+.navbar img{
+    border-radius: 50%;
+}
+.navbar-brand{
+    text-decoration: none;
+    color:black;
+}
+.card-body a{
+    background-color: #F8DE22;
+}
+.card-body img{
+    width: 200px;
+}
+.card-body{
+    background-color: #71C9CE;
+}
+.ig{
+    width: 35px;
+}
